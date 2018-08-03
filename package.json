@@ -1,6 +1,6 @@
 {
   "name": "utils-used",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "常用工具库、函数库",
   "main": "lib/index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "device"
   ],
   "author": "yejiang1015",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/yejiang1015/utils-used/issues"
   },
