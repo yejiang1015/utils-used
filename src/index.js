@@ -9,6 +9,10 @@ const fmtdate = require('./date/fmtdate');
 // url
 const fmturl = require('./url/fmturl');
 
+// device
+const getBrowser = require('./device/getBrowser');
+const getOs = require('./device/getOs');
+
 module.exports = {
   // cookie
   getCookie,
@@ -17,5 +21,8 @@ module.exports = {
   // date
   fmtdate,
   // url
-  fmturl
+  fmturl,
+  // device
+  getBrowser,
+  getOs
 };
